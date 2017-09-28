@@ -1,7 +1,4 @@
-# dolphin
+# Sailfash
 
-Agile and lightweight  framework for microservice
+Fast framework for microservice based on Istio.
 
-Update in March 2017:
-
-Dolphin has rename to Light, please reference to https://github.com/basiccloud/light
