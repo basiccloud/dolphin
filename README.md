@@ -1,4 +1,4 @@
-# Sailfash
+# FlyRPC
 
-Fast framework for microservice based on Istio.
+Fast RPC framework for microservice.
 
