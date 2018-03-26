@@ -1,4 +1,4 @@
-# FlyRPC
+# DragonFly
 
-Fast RPC framework for microservice.
+Fast RPC framework for microservice based on gRPC.
 
